@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "leggende",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "type": "Feature", "titolo": "San Lorenzello, la leggenda del borgo nato da un bacio", "img": "https://storienapoli.it/wp-content/uploads/2020/07/Sgombero-del-Rione-Terra.png", "author": "Federico Quagliuolo", "descr": "Ai piedi del Monte Erbano, nella profonda provincia di Benevento, c’è la città di San Lorenzello, che fu fondata grazie a un bacio. La leggenda della sua fondazione risale a…", "url": "https://storienapoli.it/2020/07/04/san-lorenzello-bacio-leggenda/", "category": "leggende" }, "geometry": { "type": "Point", "coordinates": [ 14.541169393183967, 41.275902766986093 ] } },
